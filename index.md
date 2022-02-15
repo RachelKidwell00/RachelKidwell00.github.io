@@ -6,19 +6,19 @@
 ## Alaska
 
 ---
-### [Airport Heatmap](/project1/README)
+### [Airport Heatmap](/project1/index)
 A heatmap of Alaskan airports.
-[<img src="project1/heatairports.png?raw=true"/>](/project1/README)
+[<img src="project1/heatairports.png?raw=true"/>](/project1/index)
 
 ---
-### [Elevation](/project2/README)
+### [Elevation](/project2/index)
 Elevation of the state of Alaska.
-[<img src="project2/alaskaelev.png?raw=true"/>](/project2/README)
+[<img src="project2/alaskaelev.png?raw=true"/>](/project2/index)
 
 ---
-### [Watershed and Forest](/project3/README)
+### [Watershed and Forest](/project3/index)
 Major lakes, rivers, streams and forest in Alaska.
-[<img src="project3/waterandtrees.png?raw=true"/>](/project3/README)
+[<img src="project3/waterandtrees.png?raw=true"/>](/project3/index)
 
 ---
 
