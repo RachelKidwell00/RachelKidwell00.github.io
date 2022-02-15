@@ -2,8 +2,8 @@
 
 ---
 
-### Projects
-## Portfolio
+### Alaska
+## Projects
 
 ---
 ### [Airport Heatmap](/project1/index)
