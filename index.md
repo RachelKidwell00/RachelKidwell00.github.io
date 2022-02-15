@@ -17,7 +17,7 @@ Elevation of the state of Alaska.
 
 ---
 ### [Watershed and Forest](/project3/index)
-This is a short sentence about that particular project.
+Major lakes, rivers, streams and forest in Alaska.
 [<img src="project3/waterandtrees.png?raw=true"/>](/project3/index)
 
 ---
