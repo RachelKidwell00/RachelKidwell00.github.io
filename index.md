@@ -2,8 +2,8 @@
 
 ---
 
-### Alaska
-## Projects
+### Projects
+## Alaska
 
 ---
 ### [Airport Heatmap](/project1/index)
