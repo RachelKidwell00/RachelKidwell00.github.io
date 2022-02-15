@@ -12,13 +12,13 @@ A heatmap of Alaskan airports.
 
 ---
 ### [Elevation](/project2/index)
-This is a short sentence about that particular project.
-[<img src="project_probation/LOI_Transit_Isos.png?raw=true"/>](/project2/index)
+Elevation of the state of Alaska.
+[<img src="project2/alaskaelev.png?raw=true"/>](/project2/index)
 
 ---
 ### [Watershed and Forest](/project3/index)
 This is a short sentence about that particular project.
-[<img src="project_probation/LOI_Walking_Isos.png?raw=true"/>](/project3/index)
+[<img src="project3/waterandtrees.png?raw=true"/>](/project3/index)
 
 ---
 
