@@ -8,7 +8,7 @@
 ---
 ### [Airport Heatmap](/project1/index)
 A heatmap of Alaskan airports.
-[<img src="project1/heatairports.pdf"/>](/project1/index)
+[<img src="project1/heatairports.pdf?raw=true"/>](/project1/index)
 
 ---
 ### [Elevation](/project2/index)
