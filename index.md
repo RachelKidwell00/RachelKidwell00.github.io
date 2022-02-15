@@ -3,27 +3,24 @@
 ---
 
 ### Projects
-
-[Airport Heatmap (Alaska)](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Portfolio
 
 ---
-#[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Airport Heatmap](/project1/index)
+A heatmap of Alaskan airports.
+[<img src="project1/heatairports.pdf"/>](/project1/index)
 
 ---
-#[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Elevation](/project2/index)
+This is a short sentence about that particular project.
+[<img src="project_probation/LOI_Transit_Isos.png?raw=true"/>](/project2/index)
 
 ---
+### [Watershed and Forest](/project3/index)
+This is a short sentence about that particular project.
+[<img src="project_probation/LOI_Walking_Isos.png?raw=true"/>](/project3/index)
 
-### Category Name 2
-#
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
 
 ---
 
