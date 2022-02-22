@@ -3,12 +3,9 @@
 ---
 
 ### Projects
-## Alaska
+###[Median Income](/Project4/index)
+[<img src="Project4/KingCountyIncome.png?raw=true"/>](/Project4/index)
 
----
-### [Airport Heatmap](/project1/index)
-A heatmap of Alaskan airports.
-[<img src="project1/heatairports.png?raw=true"/>](/project1/index)
 
 ---
 ### [Elevation](/project2/index)
@@ -21,6 +18,9 @@ Major lakes, rivers, streams and forest in Alaska.
 [<img src="project3/waterandtrees.png?raw=true"/>](/project3/index)
 
 ---
+### [Airport Heatmap](/project1/index)
+A heatmap of Alaskan airports.
+[<img src="project1/heatairports.png?raw=true"/>](/project1/index)
 
 ---
 
