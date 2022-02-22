@@ -3,7 +3,7 @@
 ---
 
 ### Projects
-###[Median Income](/Project4/index)
+### [Median Income](/Project4/index)
 [<img src="Project4/KingCountyIncome.png?raw=true"/>](/Project4/index)
 
 
