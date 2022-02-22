@@ -2,4 +2,4 @@
 
 
 Intermediate products are shown below.
-[<img src="Project4/asian1.png?raw=true"/>]
+[<img src="https://github.com/RachelKidwell00/RachelKidwell00.github.io/blob/master/Project4/asian1.png?raw=true"/>]
