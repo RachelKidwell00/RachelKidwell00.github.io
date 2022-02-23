@@ -2,11 +2,11 @@ title: Rachel Kidwell # your name (or website title) here
 logo: "https://github.com/RachelKidwell00/RachelKidwell00.github.io/blob/master/images/profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   UMBC class of 2022
-  <br><br>
+  <br>
   Environmental Science and Geography (B.S.)
   <br>
   Geographic Information Science (Certificate)
-  <br><br>
+  <br>
 
 theme: jekyll-theme-minimal
 
