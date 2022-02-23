@@ -1,5 +1,3 @@
 # Hotspot Analysis of Asian Residents in Pennsylvania
 
-
-Intermediate products are shown below.
-[<img src="Project5/intermediate1/asian1.png?raw=true"/>](/Project5/intermediate1/index)
+ACS 5-year data were used to analyze the prevalence of Asian residents in Pennsylvania by census tract. Hotspot analysis used the Getis-Ord local Gi* statistic with categories for high, low and insignificant clustering. The tracts only showed high and insignificant clustering. The analysis and figures were done in R with packages like tidycensus, tidyverse, sf and ggplot2. Complete R code and walkthrough can be downloaded by clicking [here](/Project5/HotspotAsianRCode).
