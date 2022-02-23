@@ -2,4 +2,4 @@
 
 
 Intermediate products are shown below.
-[<img src="Project5/asian2.png?raw=true"/>](/Project5/index)
+[<img src="Project5/intermediate1/asian1.png?raw=true"/>](/Project5/intermediate1/index)
