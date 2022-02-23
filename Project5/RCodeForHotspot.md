@@ -42,6 +42,10 @@ ggplot(PA_asian) +
   theme_void() +
   labs(title= "Asian Population Estimate for Pennsylvania by Census Tract")
 ```
+<img src="asian1.png?raw=true"/>
+
+
+
 Establish nearest neighbor analysis with queen arrangement allowed. Define centroids and coordinates for each tract. 
 
 ```{r}
@@ -63,6 +67,8 @@ plot(neighbors,
      col = "red", 
      points = FALSE)
 ```
+<img src="asian2.png?raw=true"/>
+
 
 Assign weights to neighbors and verify the weights were applied equally.
 
@@ -92,6 +98,8 @@ ggplot(PA_asian_new) +
   theme_void() + 
   labs(fill = "Local Gi* statistic", title="Getis-Ord Local Gi* Statistic for Asian Residents in Pennsylvania") 
 ```
+<img src="asian3.png?raw=true"/>
+
 
 Hotspot analysis:
 
