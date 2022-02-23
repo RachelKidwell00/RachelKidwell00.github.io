@@ -125,3 +125,4 @@ ggplot(asianhotspot) +
   theme_void() +
   labs(title= "Hotspots of Asian Residents in Pennsylvania by Tract")
 ```
+<img src="AsianHotspotPA.png?raw=true"/>
