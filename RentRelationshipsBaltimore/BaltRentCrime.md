@@ -157,3 +157,10 @@ alternative hypothesis: true correlation is not equal to 0...
 sample estimates:
       cor 
 0.1735549*
+
+
+## Discussion
+
+I chose to test these relationships because I wanted to know how the amount of highly publicized crime affected housing prices for renters. I expected there to be a negative correlation between the two. I assumed in areas with more crime, landlords would be forced to decrease asking rent in order to find willing tenants, bringing down the average rent in that tract. Additionally, these serious crimes are the most well known as they get greater news coverage, so would more likely factor into a renter's decision on a home. The results of this analysis, however, suggest a positive correlation between crime and rent. In hindsight, this makes sense because people are unlikely to commit crimes where they live.
+
+An interesting aspect of these results is that area-wise crime rates had a less positive relationship with rent than did simple counts. Future analysis could factor in nearest neighbor crime counts, possibly with weighted regression, to get a more complete picture. 
