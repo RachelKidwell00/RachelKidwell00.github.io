@@ -1,5 +1,7 @@
 ## Portfolio
-
+---
+### [Relationship Between Rent and Crime in Baltimore](/RentRelationshipsBaltimore/index)
+[<img src="RentRelationshipsBaltimore/BaltRentCover.png?raw=true"/>](/RentRelationshipsBaltimore/index)
 ---
 ### [Median Income](/Project4/index)
 [<img src="Project4/KingCountyIncome.png?raw=true"/>](/Project4/index)
