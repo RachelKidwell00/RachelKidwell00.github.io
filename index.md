@@ -1,6 +1,6 @@
 ## Portfolio
 ---
-### [The Urban Heat Island Effect in Baltimore](/UHI/test1)
+### [The Urban Heat Island Effect in Baltimore](/UHI/test1.pdf)
 [<img src="UHI/heatislandimg.png?raw=true"/>](UHI/test1.pdf)
 ---
 ### [Relationship Between Rent and Crime in Baltimore](/RentRelationshipsBaltimore/index)
